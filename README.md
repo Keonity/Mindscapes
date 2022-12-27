@@ -6,6 +6,14 @@
 
 A "mindscape" is a piece of my mind. It is a setting that I frequently imagine in my mind, for who knows what reason. The Mindscapes project seeks to take these imaginary locations and recreate them in Unity, and who knows? Maybe one day someone who's imagined the exact same thing as me will come along!
 
+### RUNNING INSTRUCTIONS
+
+1. Download this Mindscapes collection by clicking on the green `<> Code` button and then Download ZIP.
+2. Unzip the downloaded ZIP file
+3. Open the unzipped file and navigate to your desired mindscape's folder (Example: MINDSCAPE - Arbor Dale Nostalgia Build)
+4. Click on the Unity project executable in that folder (Example: MINDSCAPE - Arbor Dale.exe)
+5. Enjoy!
+
 ### MINDSCAPES
 
 ### ARBOR DALE
