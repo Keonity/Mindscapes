@@ -30,9 +30,7 @@ The Arbor Dale Nostalgia Build follows what's most true to my mind's dreamscape.
 - NPC Tool by EdgarDev, thanks for allowing my bears to come to life
 - Volumetric Light Beam by Tech Salad, thanks for allowing me to make my dreamscape a reality!
 - AllSky Free by rpgwhitelock, thanks for helping to replace the boring default sky
-- Stylized Trees and Foliage by Aquarius Max, a saviour honestly
 - FREE Stylized Bear - RPG Forest Animal by Blink, amazing models!
 - Fantasy Forest Environment - Free Demo by TriForge Assets, these trees are amazing for the upcoming update!
 - Nature Starter Kit 2 by Shapes - Your textures are amazing!
-- Falling into your own fantasy world // a playlist by Ivoryyy - Your playlist helped inspire me to finish this world!
 - No Copyright Relaxing Fantasy Music // Forest Walk | Alexander Nakarada by Alexander Nakarada - A more formal background track for the Nostalgia Build
